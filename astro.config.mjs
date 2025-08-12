@@ -7,6 +7,6 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
   },
-  site: 'https://adekolaolat@github.io',
-  
+  site: 'https://adekolaolat.github.io',
+
 });
