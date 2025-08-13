@@ -10,13 +10,13 @@ export const siteConfig = {
     github: "https://github.com/adekolaolat",
   },
   aboutMe:
-    "I’ve worked across data roles as both a Data Scientist and a Data Engineer, helping businesses turn messy data into clear and actionable insights. My work is mainly in Azure, where I design and maintain scalable, efficient pipelines using modern data architectures, lakehouses, data warehouses, and real-time streaming systems to power analytics. I make sure Analysts and Data Scientists have clean, reliable, and business-ready  data so they can focus on uncovering insights, not fixing data problems. I actively focus on self development, continuously learning new technologies and best practices, using that knowledge to improve solutions and collaborate effectively with cross-functional teams.",
+    ["I’ve worked across data roles as both a Data Scientist and a Data Engineer, helping businesses turn messy data into clear and actionable insights. My work is mainly in Azure, where I design and maintain scalable, efficient pipelines using modern data architectures, lakehouses, data warehouses, and real-time streaming systems to power analytics.","I make sure Analysts and Data Scientists have clean, reliable, and business-ready  data so they can focus on uncovering insights, not fixing data problems.", "Committed to self-development, I stay updated on new technologies and best practices, applying them to improve solutions and collaborate effectively across teams."],
   skills: ["Big Data","Python", "SQL / T-SQL", "Azure", "Fabric","Databricks","PySpark", "Linux","Git", "SQL Server","Postgres", "PowerBI", "Tableau",],
   projects: [
     {
       name: "Bus Operations in Liverpool",
       description:
-        "Out of an interest in understanding Liverpool’s bus operations, I developed an end-to-end Azure data pipeline that pulls live data from the Bus Open Data Service (BODS) API. The solution processes and transforms over 3 million data points, making it easy to analyze and report on city’s bus network.",
+        "Out of an interest in understanding Liverpool’s bus operations, I developed an end-to-end Azure data pipeline that pulls live data from the Bus Open Data Service (BODS) API. The solution processes and transforms over 3M+ data points, making it easy to analyze and report on city’s bus network.",
       link: "https://github.com/adekolaolat/bods-liverpool-azure-data-engineering",
       skills: ["PySpark","SQL/T-SQL","ETL","Azure Data Factory", "ADLS", "Databricks", "Synapse Analytics","Medallion lakehouse architecture","Git","PowerBI"],
     },
