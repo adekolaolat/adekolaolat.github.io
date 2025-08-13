@@ -18,7 +18,7 @@ export const siteConfig = {
       description:
         "Out of an interest in understanding Liverpool’s bus operations, I developed an end-to-end Azure data pipeline that pulls live data from the Bus Open Data Service (BODS) API. The solution processes and transforms over 3M+ data points, making it easy to analyze and report on city’s bus network.",
       link: "https://github.com/adekolaolat/bods-liverpool-azure-data-engineering",
-      skills: ["PySpark","SQL/T-SQL","ETL","Azure Data Factory", "ADLS", "Databricks", "Synapse Analytics","Medallion lakehouse architecture","Git","PowerBI"],
+      skills: ["PySpark","SQL/T-SQL","ETL","Azure Data Factory", "ADLS", "Databricks", "Synapse Analytics","Medallion lakehouse architecture","Git","Power BI"],
     },
     {
       name: "On-Prem to Cloud Data Integration with Microsoft Fabric",
