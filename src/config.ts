@@ -11,7 +11,7 @@ export const siteConfig = {
   },
   aboutMe:
     ["I’ve worked across data roles as both a Data Scientist and a Data Engineer, helping businesses turn messy data into clear and actionable insights. My work is mainly in Azure, where I design and maintain scalable, efficient pipelines using modern data architectures, lakehouses, data warehouses, and real-time streaming systems to power analytics.","I make sure Analysts and Data Scientists have clean, reliable, and business-ready  data so they can focus on uncovering insights, not fixing data problems.", "Committed to self-development, I stay updated on new technologies and best practices, applying them to improve solutions and collaborate effectively across teams."],
-  skills: ["Big Data","Python", "SQL / T-SQL", "Azure", "Fabric","Databricks","PySpark", "Linux","Git", "SQL Server","Postgres", "PowerBI", "Tableau",],
+  skills: ["Big Data","Python", "SQL / T-SQL", "Azure", "Fabric","Databricks","PySpark", "Linux","Git", "SQL Server","Postgres", "Power BI", "Tableau"],
   projects: [
     {
       name: "Bus Operations in Liverpool",
@@ -25,7 +25,7 @@ export const siteConfig = {
       description:
         "Developed a Microsoft Fabric data pipeline to lands on-premises data into a lakehouse and transform it for analytics. For a business procurement use case, I created a dashboard that identifies high-cost suppliers and flags regular suppliers with low product costs, helping to monitor product quality and drive cost reduction efforts.",
       link: "https://github.com/adekolaolat/fabric-data-engineering-on-premises-db",
-      skills: ["Fabric","PySpark", "SQL/T-SQL", "Data Factory","Data Migration","Lakehouse", "Data modelling", "Git","PowerBI"],
+      skills: ["Fabric","PySpark", "SQL/T-SQL", "Data Factory","Data Migration","Lakehouse", "Data modelling", "Git","Power BI"],
     },
     {
       name: "Data Governance: Implementing Granular Access Control",
