@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Tunde",
-  title: "A Data Engineer (Microsoft Certified)",
+  title: "A Data Engineer",
   description: "Portfolio website of Olatunde Adekola",
   accentColor: "#9c38e9fa",
   social: {
@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/adekolaolat",
   },
   aboutMe:
-    "I’ve worked across data roles as both a Data Scientist and a Data Engineer, helping businesses turn messy data into clear and actionable insights. My work is mainly in Azure, where I design and maintain scalable, efficient pipelines using modern data architectures, lakehouses, data warehouses, and real-time streaming systems to power analytics. I make sure Analysts and Data Scientists have clean, reliable, and business-ready  data so they can focus on uncovering insights, not fixing data problems.",
+    "I’ve worked across data roles as both a Data Scientist and a Data Engineer, helping businesses turn messy data into clear and actionable insights. My work is mainly in Azure, where I design and maintain scalable, efficient pipelines using modern data architectures, lakehouses, data warehouses, and real-time streaming systems to power analytics. I make sure Analysts and Data Scientists have clean, reliable, and business-ready  data so they can focus on uncovering insights, not fixing data problems. I actively focus on self development, continuously learning new technologies and best practices, using that knowledge to improve solutions and collaborate effectively with cross-functional teams.",
   skills: ["Big Data","Python", "SQL / T-SQL", "Azure", "Fabric","Databricks","PySpark", "Linux","Git", "SQL Server","Postgres", "PowerBI", "Tableau",],
   projects: [
     {
