@@ -7,10 +7,9 @@ export const siteConfig = {
     email: "adekolaolat@gmail.com",
     linkedin: "https://www.linkedin.com/in/olatunde-adekola-7893b6178/",
     
-    github: "https://github.com/adekolaolat",
   },
   aboutMe:
-    ["I’ve worked across data roles as both a Data Scientist and a Data Engineer, helping businesses turn messy data into clear and actionable insights. My work is mainly in Azure, where I design and maintain scalable, efficient pipelines using modern data architectures, lakehouses, data warehouses, and real-time streaming systems to power analytics.","I make sure Analysts and Data Scientists have clean, reliable, and business-ready  data so they can focus on uncovering insights, not fixing data problems.", "Committed to self-development, I stay updated on new technologies and best practices, applying them to improve solutions and collaborate effectively across teams."],
+    ["I’ve worked across data roles as both a Data Engineer and a Data Scientist, helping businesses turn messy data into clear and actionable insights. I focus on Azure, where I design and maintain scalable, efficient pipelines using modern data architectures, lakehouses, data warehouses, and real-time streaming systems to power analytics.","I make sure Analysts and Data Scientists have clean, reliable, and business-ready  data so they can focus on uncovering insights, not fixing data problems.", "Committed to self-development, I stay updated on new technologies and best practices, applying them to improve solutions and collaborate effectively across teams."],
   skills: ["Big Data","Python", "SQL / T-SQL", "Azure", "Fabric","Databricks","PySpark", "Linux","Git", "SQL Server","Postgres", "Power BI", "Tableau"],
   projects: [
     {
