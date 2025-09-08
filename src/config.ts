@@ -27,12 +27,20 @@ export const siteConfig = {
       skills: ["Fabric","PySpark", "SQL/T-SQL", "Data Factory","Data Migration","Lakehouse", "Data modelling", "Git","Power BI"],
     },
     {
+      name: "Predicting Hospital Readmission Risk: Fabric ML workload",
+      description:
+        "Hospitals incur penalties when patients are readmitted within 30 days, making early identification of high-risk patients crucial. This project leverages Microsoft Fabric to integrate patient data, visit history, lab results, and costs, and runs a machine learning workload to predict 30-day readmission risk.",
+      link: "https://github.com/adekolaolat/fabric-hospital-readmission-risk-ml",
+      skills: ["Fabric", "Azure", "Medallion lakehouse architecture", "MLflow", "Python", "SQL","Predictive modelling", "ADLS Gen 2" ],
+    },
+    {
       name: "Data Governance: Implementing Granular Access Control",
       description:
         "This project implements a security aspect of data governance at a granular level by applying features such as Dynamic Data Masking (DDM), Column-Level Security (CLS), and Row-Level Security (RLS) within a business setting.",
       link: "https://github.com/adekolaolat/granular-data-security-sql-server-fabric",
       skills: ["T-SQL", "SQL Server", "SSMS","Fabric", "Azure"],
     },
+
   ],
   
 };
