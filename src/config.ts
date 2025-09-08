@@ -29,7 +29,7 @@ export const siteConfig = {
     {
       name: "Predicting Hospital Readmission Risk: Fabric ML workload",
       description:
-        "Hospitals incur penalties when patients are readmitted within 30 days, making early identification of high-risk patients crucial. This project leverages Microsoft Fabric to integrate patient data, visit history, lab results, and costs, and runs a machine learning workload to predict 30-day readmission risk.",
+        "Hospitals incur penalties when patients are readmitted within 30 days, so making early identification of high-risk patients is crucial. This project leverages Microsoft Fabric to integrate patient data, visit history, lab results, and costs, and runs a machine learning workload to predict 30-day readmission risk.",
       link: "https://github.com/adekolaolat/fabric-hospital-readmission-risk-ml",
       skills: ["Fabric", "Azure", "Medallion lakehouse architecture", "MLflow", "Python", "SQL","Predictive modelling", "ADLS Gen 2" ],
     },
