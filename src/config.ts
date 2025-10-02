@@ -31,7 +31,14 @@ export const siteConfig = {
       description:
         "Hospitals incur penalties when patients are readmitted within 30 days, so making early identification of high-risk patients is crucial. This project leverages Microsoft Fabric to integrate patient data, visit history, lab results, and costs, and runs a machine learning workload to predict 30-day readmission risk.",
       link: "https://github.com/adekolaolat/fabric-hospital-readmission-risk-ml",
-      skills: ["Fabric", "Azure", "Medallion lakehouse architecture", "MLflow", "Python", "SQL","Predictive modelling", "ADLS Gen 2" ],
+      skills: ["Fabric", "Azure","Data Factory", "Medallion architecture", "MLflow", "PySpark", "SQL","Predictive modelling", "scikit learn","ADLS Gen 2" ],
+    },
+    {
+      name: "Data Validation with Great Expectation",
+      description:
+        "You owe your dashboard users and analysts quality data, so you should always validate your data. In this project, I have used **Great Expectations (GX)** (pretty much the industry standard) within a Microsoft Fabric pipeline to handle data validation and quality checks. The goal is to ensure data remains accurate, consistent, and trustworthy before moving further down the pipeline. By integrating GX, the pipeline can automatically test incoming data against predefined rules (expectation), catch errors early, monitor data health and provide clear reports.",
+      link: "https://github.com/adekolaolat/validation-great-expectation-fabric",
+      skills: ["Fabric", "Azure","PySpark", "Great Expectation","Data Validation","Data Quality", "Alerting", "SMTP"],
     },
     {
       name: "Data Governance: Implementing Granular Access Control",
