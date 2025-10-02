@@ -22,7 +22,7 @@ export const siteConfig = {
     {
       name: "On-Prem to Cloud Data Integration with Microsoft Fabric",
       description:
-        "Developed a Microsoft Fabric data pipeline to lands on-premises data into a lakehouse and transform it for analytics. For a business procurement use case, I created a dashboard that identifies high-cost suppliers and flags regular suppliers with low product costs, helping to monitor product quality and drive cost reduction efforts.",
+        "Developed a Microsoft Fabric data pipeline to land on-premises data into a lakehouse and transform it for analytics. For a business procurement use case, I created a dashboard that identifies high-cost suppliers and flags regular suppliers with low product costs, helping to monitor product quality and drive cost reduction efforts.",
       link: "https://github.com/adekolaolat/fabric-data-engineering-on-premises-db",
       skills: ["Fabric","PySpark", "SQL/T-SQL", "Data Factory","Data Migration","Lakehouse", "Data modelling", "Git","Power BI"],
     },
