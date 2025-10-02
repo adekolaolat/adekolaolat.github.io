@@ -34,11 +34,11 @@ export const siteConfig = {
       skills: ["Fabric", "Azure","Data Factory", "Medallion architecture", "MLflow", "PySpark", "SQL","Predictive modelling", "scikit learn","ADLS Gen 2" ],
     },
     {
-      name: "Data Validation with Great Expectation",
+      name: "Data Validation with Great Expectations",
       description:
-        "You owe your dashboard users and analysts quality data, so you should always validate your data. In this project, I have used **Great Expectations (GX)** (pretty much the industry standard) within a Microsoft Fabric pipeline to handle data validation and quality checks. The goal is to ensure data remains accurate, consistent, and trustworthy before moving further down the pipeline. By integrating GX, the pipeline can automatically test incoming data against predefined rules (expectation), catch errors early, monitor data health and provide clear reports.",
+        "You owe your dashboard users and analysts quality data, so you should always validate your data. In this project, I have used Great Expectations (GX) within a Microsoft Fabric pipeline to validate data early in the lifecycle and alert relevant stakeholders with clear reports if issues are encountered.",
       link: "https://github.com/adekolaolat/validation-great-expectation-fabric",
-      skills: ["Fabric", "Azure","PySpark", "Great Expectation","Data Validation","Data Quality", "Alerting", "SMTP"],
+      skills: ["Fabric", "Azure","PySpark", "Great Expectations","Data Validation","Data Quality", "Alerting", "SMTP"],
     },
     {
       name: "Data Governance: Implementing Granular Access Control",
