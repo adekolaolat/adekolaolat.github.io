@@ -47,6 +47,14 @@ export const siteConfig = {
       link: "https://github.com/adekolaolat/granular-data-security-sql-server-fabric",
       skills: ["T-SQL", "SQL Server", "SSMS","Fabric", "Azure"],
     },
+    {
+      name: "Active Travel Hackday: Exploring Bike theft data in Liverpool",
+      description:
+        "At the Active Travel Hackday hosted by Adrian McEwen at DoES Liverpool, a few of us decided to dig into what every cyclist dreads: bike theft. Liverpool might be building momentum around cycling and active travel, but what happens when the bikes go missing?",
+      link: "https://github.com/adekolaolat/bike-theft-active-travel-hackday",
+      skills: [, "Tableau","Data Analysis", "Data cleaning"],
+    },
+
 
   ],
   
